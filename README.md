@@ -20,6 +20,10 @@ your_project_root/
 
 ├── cache_preprocess_384.py
 
+├── dataset.py
+
+├── model_efficient.py
+
 ├── stone_final_run.ipynb
 
 └── README.md
