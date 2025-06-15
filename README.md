@@ -1,4 +1,4 @@
-# Hierarchical Stone Classification
+# Hierarchical Stone Classification (SUSTech STA326 Final Project)
 
 This project implements a hierarchical stone classification system using EfficientNet-V2-S and multi-task learning, as detailed in the accompanying report.
 
@@ -28,7 +28,7 @@ your_project_root/
 
 └── README.md
 
-Place `cache_preprocess_384.py` and `stone_final_run.ipynb` in the same directory as your `datasets` folder. The `datasets` folder should contain all your stone images.
+Place all the code in the same directory as your `datasets` folder. The `datasets` folder should contain all your stone images.
 
 ### 2. Preprocessing Data
 
