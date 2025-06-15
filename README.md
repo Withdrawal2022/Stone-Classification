@@ -13,10 +13,15 @@ To run this project, follow these steps:
 Ensure your project directory is structured as follows:
 
 your_project_root/
+
 ├── datasets/
+
 │   └── (contains all stone images)
+
 ├── cache_preprocess_384.py
+
 ├── stone_final_run.ipynb
+
 └── README.md
 
 Place `cache_preprocess_384.py` and `stone_final_run.ipynb` in the same directory as your `datasets` folder. The `datasets` folder should contain all your stone images.
